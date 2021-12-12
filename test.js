@@ -15,4 +15,4 @@ function test(x, y) {
     }
 }
 
-test(10, 20)
+test(10, 30)
